@@ -66,18 +66,10 @@
      pip install Flask Flask-CORS
      ```
 
-   - **Create the Flask Application File**
-
-     Create a new Python file (e.g., `app.py`) and paste the provided code into it.
 
    - **Run the Flask Application**
 
      Start the Flask application using the following command:
-     ```bash
-     python app.py
-     ```
-
-     If there's a separate server file (e.g., `server.py`), run it with:
      ```bash
      python server.py
      ```
